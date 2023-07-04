@@ -22,6 +22,8 @@
 14. Открываем терминал PowerShell и вводим команду `npm run start`.
 15. Наслаждаемся работой скрипта.
 
+---
+
 ## What it allows you to do
 The parser allows you to gather information about products, services, and prices offered on the FunPay.com platform. The parser automatically collects data from the website and saves the obtained information in Google Sheets, as well as sends messages about products to a Telegram bot.
 
