@@ -1,0 +1,16 @@
+{
+  "name": "funpars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "sltls-m",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.7.3",
+    "puppeteer-core": "^20.7.3"
+  }
+}
